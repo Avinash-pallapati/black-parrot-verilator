@@ -16,6 +16,10 @@ This project demonstrates the simulation of the BlackParrot RISC-V processor usi
 ## Result
 Simulation completed successfully with PASS status.
 
+## Simulation Output
+
+![Simulation Output](simulation_output.png)
+
 ---
 # BlackParrot RISC-V Simulation using Verilator
 
