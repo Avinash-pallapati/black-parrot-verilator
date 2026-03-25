@@ -1,3 +1,22 @@
+# BlackParrot Verilator Simulation
+
+This project demonstrates the simulation of the BlackParrot RISC-V processor using Verilator 5.
+
+## What I did
+- Installed and configured BlackParrot environment
+- Resolved build and simulation errors
+- Successfully ran full-system simulation
+- Verified output with PASS result
+
+## Tools Used
+- Ubuntu Linux
+- Verilator 5
+- Git & GitHub
+
+## Result
+Simulation completed successfully with PASS status.
+
+---
 # BlackParrot RISC-V Simulation using Verilator
 
 ## Overview
